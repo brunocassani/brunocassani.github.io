@@ -1,6 +1,6 @@
 body {
     font-family: 'Trebuchet MS', sans-serif;
-    background-color: #f4f4f4;
+    background-color: #f5fcfc;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,7 +10,7 @@ body {
   
   #businessCard {
     box-shadow: 0 0 10px #ccc;
-    background-color: white;
+    background-color: #f0fbfc;
     padding: 20px;
     width: 300px;
     text-align: center;
