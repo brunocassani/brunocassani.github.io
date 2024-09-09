@@ -1,6 +1,6 @@
 # Business Card Website
 
-This is a simple business card website created as a personal project.
+This is a simple business card website created as a personal project. [Check out the website here!](https://brunocassani.github.io/)
 
 ## Acknowledgements
 
